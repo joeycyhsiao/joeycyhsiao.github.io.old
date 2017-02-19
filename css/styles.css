@@ -193,8 +193,8 @@ Headings
 .about h1 { font-size: 55px; font-weight: 100; color: #1C140D; margin: 20px 0 20px 0; }
 .about h2 { font-size: 16px; font-weight: 100; color: #1C140D; margin: 0px 0 20px 0; font-style:italic;}
 
-.testimonials h1 { font-size: 55px; font-weight: 100; margin: 0 0 60px 0; }
-.testimonials h2 { color: #FFF; font-weight:100; font-size: 30px; margin: 20px 0 60px 0; }
+.testimonials h1 { font-size: 55px; font-weight: 100; color: #1C140D; margin: 0 0 60px 0; }
+.testimonials h2 { color: #1C140D; font-weight:100; font-size: 30px; margin: 20px 0 60px 0; }
 
 /*  old version 
  * .features h1 { color: #9197a8; font-size: 15px; margin: 0 0 20px 0; text-transform: uppercase; } 
@@ -208,10 +208,8 @@ Headings
 
 .design h1 {font-size: 55px; font-weight: 100; color: #FFF; margin: 0 0 0 0; }
 
-/*
-#news {background-color:#F38630; color:#FFF;}
-#publications {background-color:#C06C84; color:#FFF;}
-*/
+#news {color:#1C140D;}
+#publications {color:#1C140D;}
 
 /* ==========================================================================
 Custom Styles
