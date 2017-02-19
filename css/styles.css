@@ -248,7 +248,7 @@ nav ul li a:hover, nav ul li a:focus { color: rgba(255, 255, 255, 1); text-decor
 .download-btn:hover, .download-btn:focus { text-decoration: none; border-color: #a58347; color: #a58347; }
 */
 
-.about { url('../img/profile.jpg') no-repeat left 5px; background-size: 50%; }
+.about { background: url('../img/profile.jpg') no-repeat left 5px; background-size: 50%; }
 .about p { color: #1C140D; font-size: 16px; margin: 40px 30px 40px 0; line-height: 30px; font-weight:300;}
 
 .testimonials { -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 20px 0 120px 0; }
