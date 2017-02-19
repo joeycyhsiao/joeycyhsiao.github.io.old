@@ -193,7 +193,7 @@ Headings
 .about h1 { font-size: 55px; font-weight: 100; color: #1C140D; margin: 20px 0 20px 0; }
 .about h2 { font-size: 16px; font-weight: 100; color: #1C140D; margin: 0px 0 20px 0; font-style:italic;}
 
-.testimonials h1 { font-size: 55px; font-weight: 100; color: #FFF; margin: 0 0 60px 0; }
+.testimonials h1 { font-size: 55px; font-weight: 100; margin: 0 0 60px 0; }
 .testimonials h2 { color: #FFF; font-weight:100; font-size: 30px; margin: 20px 0 60px 0; }
 
 /*  old version 
