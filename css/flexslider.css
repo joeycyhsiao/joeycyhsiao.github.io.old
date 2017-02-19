@@ -82,13 +82,13 @@ html[xmlns] .slides {display: block;}
 .flex-control-nav li {margin: 0 6px; display: inline-block; zoom: 1; *display: inline;}
 .flex-control-paging li a {width: 13px; height: 13px; display: block; background: #5c696a; background: rgba(92,105,106,0.7); cursor: pointer; text-indent: -9999px; -webkit-border-radius: 20px; -moz-border-radius: 20px; -o-border-radius: 20px; border-radius: 20px; border: 3px solid #fff; }
 .flex-control-paging li a:hover { background: #fff; background: rgb(255,255,255); }
-.flex-control-paging li a.flex-active { background: #1C140D; background: rgb(255,255,255); cursor: default; }
+.flex-control-paging li a.flex-active { background: #fff; background: rgb(255,255,255); cursor: default; }
 
 .flex-control-thumbs {margin: 5px 0 0; position: static; overflow: hidden;}
 .flex-control-thumbs li {width: 25%; float: left; margin: 0;}
 .flex-control-thumbs img {width: 100%; display: block; opacity: .7; cursor: pointer;}
 .flex-control-thumbs img:hover {opacity: 1;}
-.flex-control-thumbs .flex-active {opacity: 1; cursor: default;}
+.flex-control-thumbs .flex-active {opacity: 0; cursor: default;}
 
 @media screen and (max-width: 860px) {
   .flex-direction-nav .flex-prev { opacity: 1; left: 10px;}
