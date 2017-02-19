@@ -252,7 +252,7 @@ nav ul li a:hover, nav ul li a:focus { color: rgba(255, 255, 255, 1); text-decor
 .about p { color: #1C140D; font-size: 16px; margin: 40px 30px 40px 0; line-height: 30px; font-weight:300;}
 
 .testimonials { -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 20px 0 120px 0; }
-.testimonials p { color: #FFF; font-size: 16px; font-weight:300; margin: 50px 0 50px 0; line-height: 30px; }
+.testimonials p { color: #1C140D; font-size: 16px; font-weight:300; margin: 50px 0 50px 0; line-height: 30px; }
 
 .features { background: #fff; padding: 70px 0; }
 .features p { font-size: 16px; word-spacing: 2px; line-height: 30px; font-weight:300;}
